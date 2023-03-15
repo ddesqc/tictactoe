@@ -1,8 +1,7 @@
 import pygame, sys, random
 from pygame import mixer
 import numpy as np
-import salope
-import sex
+
 
 pygame.init()
 sys.setrecursionlimit(1500)
